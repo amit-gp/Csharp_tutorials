@@ -26,7 +26,7 @@ namespace Csharp_tutorials
             Console.WriteLine("Hello");
             Console.WriteLine(Mathfuncs.Add(1, 2));
             Console.ReadKey();
-            Console.WriteLine("Hello agrerain bitch!");
+            Console.WriteLine("Hello again!");
         }
     }
 }
